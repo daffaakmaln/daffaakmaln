@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently studying as Student at SMK Telkom Malang.<br>📚 Interested and passionate about UI/UX Design.<br>🌱 I’m currently learning Flutter, Kotlin, and Javascript.<br>😄 Pronouns: He/Him.<br>⚡ In my free time, I enjoy designing and coding..
+🔭 I’m currently studying as Student at Binus University.<br>📚 Interested and passionate about UI/UX Design.<br>🌱 I’m currently learning Flutter, Kotlin, and Javascript.<br>😄 Pronouns: He/Him.<br>⚡ In my free time, I enjoy designing and coding..
 
 
 ## 🌐 Socials:
